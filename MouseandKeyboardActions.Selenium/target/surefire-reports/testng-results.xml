@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="9963" started-at="2018-12-18T08:20:12Z" finished-at="2018-12-18T08:20:22Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="9963" started-at="2018-12-18T08:20:12Z" finished-at="2018-12-18T08:20:22Z">
+      <class name="Actions.MouseActionsTest">
+        <test-method status="PASS" signature="mouseAction()[pri:0, instance:Actions.MouseActionsTest@18c7aca]" name="mouseAction" duration-ms="9898" started-at="2018-12-18T13:50:12Z" finished-at="2018-12-18T13:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseAction -->
+      </class> <!-- Actions.MouseActionsTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
